@@ -1,0 +1,11 @@
+trainset/
+*.png
+metadata
+CLAUDE.md
+uv.lock
+.python-version
+.venv/
+__pycache__/
+checkpoints/
+input/
+output/

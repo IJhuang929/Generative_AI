@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+unsloth*/
+.vscode/
+adapter*/
+
+main.py
+*.zip
+*.json
+*.csv
+*.toml
+.python-version
+*.pdf
+train/
+test/
+dev/
+test_parser.py
+test_prompt.py
+uv.lock
+
+best_lora_adapter/
+paper_evidence/
+wandb/

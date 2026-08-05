@@ -1,0 +1,2 @@
+command: python3 score.py --input_dir $input --output_dir $output --config config.json
+description: Compute Frechet Inception Distance.

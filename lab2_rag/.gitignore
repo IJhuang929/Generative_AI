@@ -1,0 +1,16 @@
+__pycache__
+.venv/
+embed_cache/
+config.py
+*.png
+plot*.py
+*.toml
+test*.py
+text*.py
+uv.lock
+HW2*.md
+private_dataset.json
+
+
+
+

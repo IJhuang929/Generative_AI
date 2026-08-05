@@ -1,0 +1,15 @@
+input/res
+images*/
+samples/
+checkpoints/
+outputs/
+.venv/
+wandb/
+requirements.txt
+res/
+uv.lock
+smoke*
+submission*
+input/
+hw5*
+

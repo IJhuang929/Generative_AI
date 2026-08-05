@@ -1,0 +1,17 @@
+dataset/
+*.png
+*.pt*
+*.json
+*.csv
+*.safetensors
+*.bin
+saved_models/
+browse*
+check_max*
+runs/
+logs/
+check*
+.vscode
+__pycache__/
+.ipynb_checkpoints/
+assemble.py

@@ -1,0 +1,17 @@
+[project]
+name = "lab6-condition-image-generation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.14.0",
+    "diffusers>=0.38.0",
+    "open-clip-torch>=3.3.0",
+    "pandas>=3.0.3",
+    "pillow>=12.2.0",
+    "scipy>=1.17.1",
+    "torch>=2.12.0",
+    "torchvision>=0.27.0",
+    "wandb>=0.27.2",
+]

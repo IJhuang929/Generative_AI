@@ -1,0 +1,10 @@
+{
+    "image_size": 64,
+    "num_images": 3000,
+    "scores": ["fid", "clip_t", "clip_i"],
+    "ref_mu": "test_mu.npy",
+    "ref_sigma": "test_sigma.npy",
+    "batch_size": 32,
+    "num_workers": 4,
+    "verbose": true
+}

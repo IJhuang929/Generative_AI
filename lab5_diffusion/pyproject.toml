@@ -1,0 +1,20 @@
+[project]
+name = "lab5-diffusion"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.13.0",
+    "diffusers>=0.37.1",
+    "face-crop-plus>=1.1.0",
+    "numpy>=2.4.6",
+    "open-clip-torch>=3.3.0",
+    "scipy>=1.17.1",
+    "tensorboard>=2.20.0",
+    "torch>=2.12.0",
+    "torchvision>=0.27.0",
+    "tqdm>=4.67.3",
+    "transformers>=5.9.0",
+    "wandb>=0.27.0",
+]
